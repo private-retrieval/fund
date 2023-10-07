@@ -12,6 +12,8 @@ A full description of the thesis can be found [here](https://github.com/protocol
 
 ## Application Process
 
+Applications are currently: *Open* for round 2 of funding. This round will close *May 1st, 2024*.
+
 ### Step 1: Submit a Proposal
 
 Submit a proposal by creating a [new issue](https://github.com/private-retrieval/fund/issues/new/choose) in this repository using the provided issue template. The details of your proposal may be sent privately by email to `fund at anonymity.dev`, but an issue must be created in this repository to initiate the review process.
