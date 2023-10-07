@@ -14,7 +14,12 @@ A full description of the thesis can be found [here](https://github.com/protocol
 
 ### Step 1: Submit a Proposal
 
-Submit a proposal by creating a [new issue](https://github.com/private-retrieval/fund/issues/new/choose) in this repository using the provided issue template.
+Submit a proposal by creating a [new issue](https://github.com/private-retrieval/fund/issues/new/choose) in this repository using the provided issue template. The details of your proposal may be sent privately by email to `fund at anonymity.dev`, but an issue must be created in this repository to initiate the review process.
+
+### Step 2: Application Review
+
+We will respond to the issue to help ensure a complete application. We may also ask for clarifications and/or modifications. Once the application is complete, it will be submitted to our advisory board for review.
+
 
 ## About the Legal Structure
 [Arcological Association](https://arcological.xyz/) is an innovative intermediary between funders and specific teams in the digital public good space. Their mission is to serve as a connective thread, streamlining funding processes and enhancing transparency, decentralization, accountability, and alignment. They source and support promising initiatives based on the specific objectives of their funders, providing comprehensive support and targeted funding to drive impactful initiatives.

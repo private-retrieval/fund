@@ -7,12 +7,6 @@ assignees: willscott, wheresaddie
 
 ---
 
--- 
-**Please copy this issue and create a new issue for your project, this is intended as a template only
-Note: More information is available as `comments` within the raw file.** 
-
--- 
-
 # Private Retrieval Proposal: `Project Title`
 
 **Name of Project:**
@@ -22,6 +16,11 @@ Note: More information is available as `comments` within the raw file.**
 **Proposer:** `replace with your GitHub username`
 
 **Do you agree to open source all work you do on behalf of this RFP and dual-license under MIT, APACHE2, or GPL licenses?:** Please respond with either "Yes" or "No"
+
+
+<!-- If you choose to submit privately, you may stop here. -->
+<!-- For private submissions, please send a PDF with the remainder of -->
+<!-- your proposal by email to <fund at anonymity.dev> -->
 
 # Project Description
 
