@@ -1,14 +1,20 @@
 # Private Retrieval Fund
 
+Advancing metadata-private technologies
+
 ## About the Fund
 
-The Private Retrieval Fund supports the development of metadata-private communication systems.
+The Private Retrieval Fund supports the development of private communication systems.
 
 The options available today for interactive (low latency) communication with privacy guarantees are very limited. Solutions developed to date have focused on the traditional web model of a single trusted origin publisher for data (as opposed to content-addressed systems where data may be replicated in advance), and have drawbacks both in their incurred latency and threat model.
 
-We are soliciting proposals to explore and develop viable mechanisms for reader-private communications under the hypothesis that it is possible to design a scalable system that does not sacrifice latency for privacy.
+This organization is structured to explore and develop viable mechanisms for reader-private communications under the hypothesis that it is possible to design a scalable system that does not sacrifice latency for privacy.
 
 A full description of the thesis can be found [here](https://github.com/protocol/research-grants/blob/master/RFPs/rfp-014-private-retrieval-of-data.md).
+
+## Stay Connected!
+
+[Telegram](https://t.me/+9lK8EcLcjRUwZGJh)
 
 ## Application Process
 
@@ -29,4 +35,4 @@ We will respond to the issue to help ensure a complete application. We may also 
 ## Contact
 - Telegram: [here](https://arcological.xyz/telegram)
 - Twitter [here](https://twitter.com/arcological_)
-- email: hello @ arcological (dot) xyz 
+- email: `fund at anonymity.dev`
