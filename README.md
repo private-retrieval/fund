@@ -33,8 +33,8 @@ Submit a proposal by creating a [new issue](https://github.com/private-retrieval
 We will respond to the issue to help ensure a complete application. We may also ask for clarifications and/or modifications. Once the application is complete, it will be submitted to our advisory board for review.
 
 
-## About the Legal Structure
-[Arcological Association](https://arcological.xyz/) is an innovative intermediary between funders and specific teams in the digital public good space. Their mission is to serve as a connective thread, streamlining funding processes and enhancing transparency, decentralization, accountability, and alignment. They source and support promising initiatives based on the specific objectives of their funders, providing comprehensive support and targeted funding to drive impactful initiatives.
+## About the Fund
+The private retrieval fund is housed within the [Open Impact Foundation](https://openimpact.foundation/), an intermediary between funders and beneficiaries. They support digital public goods by acting as a fiscal sponsor, providing both charitable status and legal separation for directed donation-based capital pools.
 
 ## Contact
 - Telegram: [here](https://t.me/+9lK8EcLcjRUwZGJh)
