@@ -2,23 +2,27 @@
 
 Advancing metadata-private technologies
 
-## About the Fund
+![AI-generated image displaying future metadata private technologies](./splash.png)
 
-The Private Retrieval Fund supports the development of private communication systems.
+## About
+
+The Private Retrieval Fund supports research & development of private communication systems.
 
 The options available today for interactive (low latency) communication with privacy guarantees are very limited. Solutions developed to date have focused on the traditional web model of a single trusted origin publisher for data (as opposed to content-addressed systems where data may be replicated in advance), and have drawbacks both in their incurred latency and threat model.
 
-This organization is structured to explore and develop viable mechanisms for reader-private communications under the hypothesis that it is possible to design a scalable system that does not sacrifice latency for privacy.
+This organization is structured to explore and develop viable mechanisms for reader-private communications under the hypothesis that it is possible to design scalable systems that don't sacrifice latency for privacy.
 
 A full description of the thesis can be found [here](https://github.com/protocol/research-grants/blob/master/RFPs/rfp-014-private-retrieval-of-data.md).
 
-## Stay Connected!
+The fund is supported by [Protocol Labs](https://protocol.ai/) and others.
 
-[Telegram](https://t.me/+9lK8EcLcjRUwZGJh)
+## Call to Action: Subscribe to hear about new developments
 
-## Application Process
+Join our [Telegram channel](https://t.me/+9lK8EcLcjRUwZGJh)
 
-Applications are currently: *Open* for round 2 of funding. This round will close *May 1st, 2024*.
+## Apply for funding
+
+Applications are currently: *Open* for round 2. This round will close *May 1st, 2024*.
 
 ### Step 1: Submit a Proposal
 
@@ -33,6 +37,5 @@ We will respond to the issue to help ensure a complete application. We may also 
 [Arcological Association](https://arcological.xyz/) is an innovative intermediary between funders and specific teams in the digital public good space. Their mission is to serve as a connective thread, streamlining funding processes and enhancing transparency, decentralization, accountability, and alignment. They source and support promising initiatives based on the specific objectives of their funders, providing comprehensive support and targeted funding to drive impactful initiatives.
 
 ## Contact
-- Telegram: [here](https://arcological.xyz/telegram)
-- Twitter [here](https://twitter.com/arcological_)
-- email: `fund at anonymity.dev`
+- Telegram: [here](https://t.me/+9lK8EcLcjRUwZGJh)
+- Email: `fund at anonymity.dev`
