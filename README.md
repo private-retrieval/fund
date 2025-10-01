@@ -22,7 +22,7 @@ Join our [Telegram channel](https://t.me/+9lK8EcLcjRUwZGJh)
 
 ## Apply for funding
 
-Applications are currently: *Open* for round 2. This round will close *May 1st, 2024*.
+Applications are currently: *Closed* / only taking invited proposals.
 
 ### Step 1: Submit a Proposal
 
